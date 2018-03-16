@@ -1,5 +1,10 @@
 Source: <br />
 https://www.joshmorony.com/creating-a-shrinking-header-for-segments-in-ionic/  <br />
+
+# Issue
+
+- If we show/hide based on the tab selected, there is an Issue with the scroll.
+- If we push another page and pop back, there is an Issue with a scroll.
  
 ///////////////////////////// <br />
 $ ionic info
